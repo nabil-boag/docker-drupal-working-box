@@ -1,2 +1,15 @@
-# docker-drupal-working-box
-A Dockerfile for a Drupal "working" box with PHPUnit, Drush and other CLI tools.
+# Docker Drupal Working Box
+
+A Dockerfile for working with a Drupal installation.
+
+The following extensions are installed
+
+* NodeJS
+* Bower
+* PHPUnit
+* MYSQL
+* S3CMD
+* Drush
+* Curl
+* VIM
+
